@@ -13,3 +13,7 @@ collections:
   - name: ansible.windows
   - name: redhatinsights.insights
   - name: pfsensible.core
+  - name: community.general
+  - name: community.mysql
+  - name: community.crypto
+  - name: ansible.posix
